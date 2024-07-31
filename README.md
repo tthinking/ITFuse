@@ -2,6 +2,15 @@
 
 This is the official implementation of the ITFuse model proposed in the paper ([ITFuse: An Interactive Transformer for Infrared and Visible Image Fusion](https://www.sciencedirect.com/science/article/pii/S0031320324005739?via%3Dihub)) with Pytorch.
 
+# Requirements
+<li>Python 3</li>
+<li>PyTorch 1.9.1</li>
+<li>tqdm</li>
+<li>pandas</li>
+<li>joblib</li>
+<li>matplotlib</li>
+<li>timm</li>
+
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2024_ITFuse,
