@@ -18,7 +18,7 @@ If this work is helpful to you, please cite it as:</p>
   journal={Pattern Recognition}, 
   title={ITFuse: An Interactive Transformer for Infrared and Visible Image Fusion}, 
   year={2024},
-  volume={},
+  volume={156},
   number={},
   pages={110822},
   doi={10.1016/j.patcog.2024.110822}}"><pre class="notranslate"><code>@ARTICLE{Tang_2024_ITFuse,
@@ -26,7 +26,7 @@ If this work is helpful to you, please cite it as:</p>
   journal={Pattern Recognition}, 
   title={ITFuse: An Interactive Transformer for Infrared and Visible Image Fusion}, 
   year={2024},
-  volume={ },
+  volume={ 156},
   number={ },
   pages={110822},
   doi={10.1016/j.patcog.2024.110822}}
